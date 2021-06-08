@@ -1,4 +1,5 @@
 {
+  "module": true,
   "requires": true,
   "lockfileVersion": 1,
   "dependencies": {
