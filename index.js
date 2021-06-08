@@ -1,4 +1,4 @@
-const { VK } = require('vk-io');
+import { VK } from 'vk-io';
 const { HearManager } = require("@vk-io");
 
 const vk = new VK({
